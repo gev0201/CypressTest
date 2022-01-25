@@ -1,5 +1,6 @@
 {
-    "baseUrl": "https://demo.guru99.com/",
+    "baseUrl": "http://demo.guru99.com",
+    "chromeWebSecurity": false,
     "ignoreTestFiles": "**/integration/*/*"
 
 }
